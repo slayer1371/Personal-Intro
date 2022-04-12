@@ -83,44 +83,20 @@ a:hover{
     margin:50px auto 50px auto;
     text-align: left;
 }
-.BUTTON_TRF {
-    background: #45b29a;
-    background-image: -webkit-linear-gradient(top, #45b29a, #45b29a);
-    background-image: -moz-linear-gradient(top, #45b29a, #45b29a);
-    background-image: -ms-linear-gradient(top, #45b29a, #45b29a);
-    background-image: -o-linear-gradient(top, #45b29a, #45b29a);
-    background-image: -webkit-gradient(to bottom, #45b29a, #45b29a);
-    -webkit-border-radius: 9px;
-    -moz-border-radius: 9px;
-    border-radius: 9px;
-    height: 8px;
-    line-height: 8px;
-    color: #FFFFFF;
-    font-family: 'Montserrat',sans-serif;
-    width: 130px;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 13px;
-    border: solid #45b29a 1px;
-    text-decoration: none;
-    display: inline-block;
-    cursor: pointer;
-    text-align: center;
- }
- 
- .BUTTON_TRF:hover {
-    border: solid #45b29a 1px;
-    background: #45b29a;
-    background-image: -webkit-linear-gradient(top, #45b29a, #345b29);
-    background-image: -moz-linear-gradient(top, #45b29a, #345b29);
-    background-image: -ms-linear-gradient(top, #45b29a, #345b29);
-    background-image: -o-linear-gradient(top, #45b29a, #345b29);
-    background-image: -webkit-gradient(to bottom, #45b29a, #345b29);
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
-    text-decoration: none;
- }
+.font {
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+.butn {
+  position: relative;
+  z-index: 10;
+  top: 90%;
+  width: 40%;
+  border-radius: 3%;
+  font-size: 0.8rem;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
  .footer-link{
      font-weight: bold;
      
