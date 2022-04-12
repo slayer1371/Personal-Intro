@@ -84,10 +84,10 @@ a:hover{
     text-align: left;
 }
 .font {
-  font-family: "Ubuntu";
+  font-family: 'Montserrat',sans-serif;
   font-weight: bold;
 }
-.butn {
+/* .butn {
   position: relative;
   z-index: 10;
   top: 90%;
@@ -96,7 +96,7 @@ a:hover{
   font-size: 0.8rem;
   padding-top: 3%;
   padding-bottom: 3%;
-}
+} */
  .footer-link{
      font-weight: bold;
      
