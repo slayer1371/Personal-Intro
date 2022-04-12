@@ -87,18 +87,17 @@ a:hover{
   font-family: 'Montserrat',sans-serif;
   font-weight: bold;
 }
-/* .butn {
+.butn {
   position: relative;
-  z-index: 10;
   top: 90%;
-  width: 40%;
-  border-radius: 3%;
-  font-size: 0.8rem;
-  padding-top: 3%;
-  padding-bottom: 3%;
-} */
+  width: 17%;
+  border-radius: 2%;
+  font-size: 1.2rem;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color:aquamarine;
+}
  .footer-link{
      font-weight: bold;
-     
  }
  
